@@ -12,7 +12,9 @@ Repo contains:
   - OOAD (CS309): Database Online Judge System
 - Labs & Assignments
   - Data structure and Algorithm Analysis (CS203A) 
-  - Embedded System (CS301)   
+  - [Computer Application and System Design (CS209A)](https://github.com/lethal233/cs209A)
+  - Embedded System (CS301)  
+  - [Operating System (CS302)](https://github.com/lethal233/cs302-os-sustech)
   - Computer Network (CS305)
 
 # License
