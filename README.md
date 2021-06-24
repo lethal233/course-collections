@@ -9,6 +9,7 @@ Repo contains:
   - Embedded System (CS301): [Wi-Fi communication based on STM32](https://github.com/CS301-sustech-zmfl/wifi-communication)
   - Operating System (CS302): Pintos, [xv6-rust](https://github.com/CS301-sustech-zmfl/xv6-rust)
   - Computer Network (CS305): rdt
+  - Data Mining (CS306): [kdd-taxi-visualization]()
   - OOAD (CS309): [Database Online Judge System](https://github.com/Phantom-OJ)
 - Labs & Assignments
   - Data structure and Algorithm Analysis (CS203A) 
@@ -16,10 +17,13 @@ Repo contains:
   - Embedded System (CS301)  
   - [Operating System (CS302)](https://github.com/lethal233/cs302-os-sustech)
   - Computer Network (CS305)
+  - [Data Mining (CS306)](https://github.com/lethal233/SUSTech-KDD)
 
 # License
 
-Apache GPL
+* Codes are under MIT LICENSE
+* Other formats of files are under CC-BY-NC-SA v4.0 LICENSE
+  ![CC-BY-NC-SA v4.0](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
 # Copyright
 
