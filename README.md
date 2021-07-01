@@ -9,7 +9,7 @@ Repo contains:
   - Embedded System (CS301): [Wi-Fi communication based on STM32](https://github.com/CS301-sustech-zmfl/wifi-communication)
   - Operating System (CS302): Pintos, [xv6-rust](https://github.com/CS301-sustech-zmfl/xv6-rust)
   - Artifical Intelligence (CS303A): [Reversi, IMP, Text classification](https://github.com/lethal233/CS303A-projects)
-  - Computer Network (CS305): [rdt](https://github.com/zero-day-rdt/RDT) -> may be the most efficient group project
+  - Computer Network (CS305): [rdt](https://github.com/zero-day-rdt/RDT) -> may be the best group project, thanks to [@starsky18](https://github.com/Star-Sky-18)
   - Data Mining (CS306): [kdd-taxi-visualization](https://github.com/kdd-taxi-visualization)
   - Database Principle (CS307): [mock-12306](https://github.com/Select-60321/select-60321)
   - OOAD (CS309): [Database Online Judge System](https://github.com/Phantom-OJ)
@@ -17,7 +17,7 @@ Repo contains:
   - [Computer Organization (CS202)](https://github.com/lethal233/CS202-MIPS)
   - [Data structure and Algorithm Analysis (CS203A)](https://github.com/lethal233/DSAAlab)
   - [Computer Application and System Design (CS209A)](https://github.com/lethal233/cs209A)
-  - Embedded System (CS301)
+  - Embedded System (CS301) to be continued
   - [Operating System (CS302)](https://github.com/lethal233/cs302-os-sustech)
   - [Computer Network (CS305)](https://github.com/lethal233/CS305-SUSTech)
   - [Data Mining (CS306)](https://github.com/lethal233/SUSTech-KDD)
