@@ -21,6 +21,7 @@ Repo contains:
   - [Operating System (CS302)](https://github.com/lethal233/cs302-os-sustech)
   - [Computer Network (CS305)](https://github.com/lethal233/CS305-SUSTech)
   - [Data Mining (CS306)](https://github.com/lethal233/SUSTech-KDD)
+  - [Computer Security (CS315)](https://github.com/lethal233/SUSTech-CS315)
 
 # License
 
