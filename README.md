@@ -14,6 +14,7 @@ Repo contains:
   - Database Principle (CS307): [mock-12306](https://github.com/Select-60321/select-60321)
   - OOAD (CS309): [Database Online Judge System](https://github.com/Phantom-OJ)
 - Labs & Assignments
+  - [Introduction to Biology (BIO102B)](https://github.com/lethal233/BIO102B)  
   - [Computer Organization (CS202)](https://github.com/lethal233/CS202-MIPS)
   - [Data structure and Algorithm Analysis (CS203A)](https://github.com/lethal233/DSAAlab)
   - [Computer Application and System Design (CS209A)](https://github.com/lethal233/cs209A)
