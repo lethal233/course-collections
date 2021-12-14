@@ -1,17 +1,17 @@
 # course-collections
 
-This repo contains links to course repositories (project, assignments, labs, etc.) owned by me in Southern University of Science and Technology (SUSTech). It is considered as a collection repo.
+This repo contains links to course repositories (project, assignments, labs, etc.) owned by lethal233 at Southern University of Science and Technology (SUSTech). It is considered as a collection repo.
 
 Repo contains:
 - Course project
-  - Digital Design (CS207): [VGA display](https://github.com/assign-D-D/simple_VGA)
+  - Digital Design (CS207): [VGA controller](https://github.com/assign-D-D/simple_VGA)
   - Computer Application and System Design (CS209A): [sudoku & magic square](https://github.com/quantum-square) (P.S may be private if cannot see magic-square and magic-square-vue repos)
   - Embedded System (CS301): [Wi-Fi communication based on STM32](https://github.com/CS301-sustech-zmfl/wifi-communication)
   - Operating System (CS302): Pintos, [xv6-rust](https://github.com/CS301-sustech-zmfl/xv6-rust)
   - Artifical Intelligence (CS303A): [Reversi, IMP, Text classification](https://github.com/lethal233/CS303A-projects)
   - Computer Network (CS305): [rdt](https://github.com/zero-day-rdt/RDT) -> may be the best group project, thanks to [@starsky18](https://github.com/Star-Sky-18)
   - Data Mining (CS306): [kdd-taxi-visualization](https://github.com/kdd-taxi-visualization)
-  - Database Principle (CS307): [mock-12306](https://github.com/Select-60321/select-60321)
+  - Principles of Database Systems (CS307): [mock-12306](https://github.com/Select-60321/select-60321)
   - OOAD (CS309): [Database Online Judge System](https://github.com/Phantom-OJ)
 - Labs & Assignments
   - [Introduction to Biology (BIO102B)](https://github.com/lethal233/BIO102B)  
