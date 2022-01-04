@@ -19,7 +19,7 @@ Repo contains:
   - [Computer Organization (CS202)](https://github.com/lethal233/CS202-MIPS)
   - [Data structure and Algorithm Analysis (CS203A)](https://github.com/lethal233/DSAAlab)
   - [Computer Application and System Design (CS209A)](https://github.com/lethal233/cs209A)
-  - Embedded System (CS301) to be continued, or maybe not
+  - [Embedded System (CS301)](https://github.com/lethal233/CS301-embedded-system)
   - [Operating System (CS302)](https://github.com/lethal233/cs302-os-sustech)
   - [Computer Network (CS305)](https://github.com/lethal233/CS305-SUSTech)
   - [Data Mining (CS306)](https://github.com/lethal233/SUSTech-KDD)
