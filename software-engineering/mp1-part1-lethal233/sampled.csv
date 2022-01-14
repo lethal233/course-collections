@@ -1,0 +1,5 @@
+query_url,keywords,close_url,usefulness,rank_usefulness,label_usefulness
+https://github.com/google/gson/issues/968,always converting long number scientific notation format,https://github.com/apache/beam/pull/6969,N,,Not relavant
+https://github.com/google/gson/issues/968,always converting long number scientific notation format,https://github.com/geosolutions-it/geoserver/issues/202,N,,Not relavant
+https://github.com/google/gson/issues/968,always converting long number scientific notation format,https://github.com/GoogleCloudPlatform/opentelemetry-operations-java/pull/33,N,,Not relavant
+https://github.com/google/gson/issues/968,always converting long number scientific notation format,https://github.com/OpenRefine/OpenRefine/issues/189,N,,Not relavant
