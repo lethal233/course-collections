@@ -1,6 +1,6 @@
 # course-collections
 
-This repo contains links to course repositories (project, assignments, labs, etc.) owned by lethal233 at Southern University of Science and Technology (SUSTech). It is considered as a collection repo.
+This repo contains links to course repositories (project, assignments, labs, etc.) owned by lethal233 at Southern University of Science and Technology (SUSTech) during 2018-2022 Academic years. It is considered as a collection repo.
 
 Repo contains:
 - Course project
