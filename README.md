@@ -11,7 +11,7 @@ Repo contains:
   - Artificial Intelligence (CS303A): [Reversi, IMP, Text classification](https://github.com/lethal233/CS303A-projects)
   - Software Engineering (CS304): fastjson, easyexcel
   - Computer Network (CS305): [rdt](https://github.com/zero-day-rdt/RDT) 
-    - May be the best group project, collaborated with [@starsky18](https://github.com/Star-Sky-18)
+    - The best group project, collaborated with [@starsky18](https://github.com/Star-Sky-18)
   - Data Mining (CS306): [kdd-taxi-visualization](https://github.com/kdd-taxi-visualization)
   - Principles of Database Systems (CS307): [mock-12306](https://github.com/Select-60321/select-60321)
   - OOAD (CS309): [Database Online Judge System](https://github.com/Phantom-OJ)
